@@ -22,6 +22,7 @@ bld/
 
 *.pyc
 *.pyo
+*.pyproj
 
 RaceBot/config.py
 RaceBot/seasonsdict.py
